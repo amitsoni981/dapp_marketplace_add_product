@@ -1,0 +1,11 @@
+https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
+
+truffle compile
+truffle migrate
+truffle console
+
+marketplace = await Marketplace.deployed()
+
+secondProd = await testcontract.defaultProduct()
+name = await testcontract.name()
+
